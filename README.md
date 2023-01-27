@@ -1,11 +1,11 @@
 # MyPongGame
 
-** To play Pong on your computer, you need to copy all files! ** 
+** To play MyPongGame on your computer, you just need to download all of the files! **
 
-Project from course on Udemy (Angela Yu) 
+This project is a part of The Complete Python Pro Bootcamp by Dr. Angela Yu, available on Udemy.
 
-I took few hints from Angela, but the code is largely my work.
+I took some hints from Angela, but the code itself is mostly the result of my own work.
 
-Big practising of OOP.
+It drastically improved my understanding of OOP.
 
-Have fun and play! 
+Have fun!
