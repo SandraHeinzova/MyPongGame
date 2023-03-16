@@ -1,6 +1,6 @@
 # MyPongGame
 
-** To play MyPongGame on your computer, you just need to download all of the files! **
+**To play MyPongGame on your computer, you just need to download all of the files!**
 
 How to play: 
 1) Run main.py (you need to have installed Python on your computer)
